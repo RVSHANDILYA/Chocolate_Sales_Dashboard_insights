@@ -1,2 +1,3 @@
 # Chocolate_Sales_Dashboard_insights
 An integrated sales dashboard providing comprehensive insights into country-wise product sales, represented by salespersons over time, showcasing revenue amounts, box quantities, and categorized data for informed decision-making.-PRVS
+Extracting data from the 'Chocolate Sales' file, the 'Sales Dashboard' offers an intuitive interface to analyze country-specific product sales, facilitated by salespersons, with detailed metrics including dates, revenue amounts, and box quantities. This dashboard empowers users to explore trends, track performance, and make informed decisions effortlessly
